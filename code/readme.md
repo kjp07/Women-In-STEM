@@ -1,8 +1,9 @@
 # Read Me
 
-List and description of the files within the code folder.
+List and description of the files within the code folder. Some of the notebooks cannot be rendered in GitHub and can be viewed using nbviewer.
 
 <ul>
+  <li><b>Mapping Scottish Universities:</b> A map showing the locations and student body size of Scottish Universities (view in nbviwer)</li>
   <li><b>Computing and Engineering enrolments: trends between 2014-2019:</b> investigating trends in student enrolments for Computing and Engineering subjects between 2014 and 2019</li>
   <li><b>scottish_university_enrolments_2019-2020.ipynb:</b> student enrolment analysis at Scottish Universities in 2019-2020</li>
   <li><b>Computing entry requirements 2021-2022.ipynb:</b> comparison of UG Computing course entry requirements of Scottish Universities</li>
