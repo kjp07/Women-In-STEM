@@ -3,6 +3,7 @@
 List and description of the files within the code folder.
 
 <ul>
+  <li><b>Computing and Engineering enrolments: trends between 2014-2019:</b> investigating trends in student enrolments for Computing and Engineering subjects between 2014 and 2019</li>
   <li><b>scottish_university_enrolments_2019-2020.ipynb:</b> student enrolment analysis at Scottish Universities in 2019-2020</li>
   <li><b>computing_entry_requirements.ipynb:</b> comparison of UG Computing course entry requirements of Scottish Universities</li>
   <li><b>computing_enrolments_scotland_2014-2020_2.ipynb:</b> investigating trends in UG Computing enrolments at Scottish Universities</li>
